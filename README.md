@@ -1,2 +1,1 @@
-# ecommerce-jap
- Página de ecommerce de Jóvenes a Programar - 2021
+# ecommerce-capacitador
